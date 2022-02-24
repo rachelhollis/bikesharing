@@ -12,7 +12,7 @@ Using NYC CitiBike bikesharing data and data visualization tools, explore the da
 ![images/customer_breakdown.png](images/customer_breakdown.png)
 
 
-![images/customer_breakdown.png](images/customer_breakdown.png)
+![images/duration.png](images/duration.png)
 
 
 ![images/duration_gender.png](images/duration_gender.png)
