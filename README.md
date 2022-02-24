@@ -9,22 +9,24 @@ Using NYC CitiBike bikesharing data and data visualization tools, explore the da
 
 # Analysis 
 
+### Breakdown of Customers
 ![images/customer_breakdown.png](images/customer_breakdown.png)
 
-A significant number of users are Subscribers (just over 3/4). These subscribers make the most use of the bikes and are the main source of income. A marketing campaign to incentivize subscribing to the service while simultaneously making the service accesible to anyone would be the best course of action. For example: a user friendly app for one time users and provide special rates to subscribers. The bikeshare users are alos predominantly male, at approximately 5/8.  
+A significant number of users are Subscribers (just over 3/4). These subscribers make the most use of the bikes and are the main source of income. A marketing campaign to incentivize subscribing to the service while simultaneously making the service accesible to anyone would be the best course of action. For example: a user friendly app for one time users and providing special rates to subscribers. The bikeshare users are also predominantly male, at approximately 5/8.  
 
+### Duration of Rides
 ![images/duration.png](images/duration.png)
 
-
+### Duration of Rides Brokendown by Gender
 ![images/duration_gender.png](images/duration_gender.png)
 
-
+### Trips per hour by Weekday
 ![images/hour_weekday.png](images/hour_weekday.png)
 
-
+### Trips per hour by Weekeday, brokendown by Gender
 ![images/hour_weekday_gender.png](images/hour_weekday_gender.png)
 
-
+### Trips per day brokendown by Gender
 ![images/user_weekday_gender.png](images/user_weekday_gender.png)
 
 ## Peak usage hours in August
