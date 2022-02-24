@@ -1,7 +1,7 @@
 # bikesharing
 Analyze NYC CitiBike bikesharing data from August 2019 with Tableau and create a clear visualization of the data
 
-## Overview
+# Overview
 
 [Tableau Story](https://public.tableau.com/app/profile/rachel.hollis/viz/NYCCitiBikeAnalysis_16449558913820/NYCCitiBikeAnalysis)
 
@@ -51,3 +51,15 @@ This visualization shows that around 8 am and 6 pm usage increases. Having avail
 ![images/ending_locations.png](images/ending_locations.png)
 
 Bike usage is exponentially higher in the known tourist areas of Manhattan. Supplying bikes around these areas is extremely important in keeping the service accessible. 
+
+
+# Summary
+
+In a busy, tourist heavy, metropolitain city, the bikeshare service is successful, even in one of the hottest months of the year. Further analysis on winter months would be beneficial in determining the success year long. However, the users are predominately male. While they are a reliable market, reaching potential female customers could be instrumental. 
+
+Further analysis of the data that could produce a successful campaign:
+- Analyze every month, not just August by:
+  - comparing total usages by months
+  - comparing duration by months
+  - determine if school has an impact on usage
+- Analyze usage by Age
