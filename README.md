@@ -11,6 +11,7 @@ Using NYC CitiBike bikesharing data and data visualization tools, explore the da
 
 ![images/customer_breakdown.png](images/customer_breakdown.png)
 
+A significant number of users are Subscribers (just over 3/4). These subscribers make the most use of the bikes and are the main source of income. A marketing campaign to incentivize subscribing to the service while simultaneously making the service accesible to anyone would be the best course of action. For example: a user friendly app for one time users and provide special rates to subscribers. The bikeshare users are alos predominantly male, at approximately 5/8.  
 
 ![images/duration.png](images/duration.png)
 
@@ -26,11 +27,13 @@ Using NYC CitiBike bikesharing data and data visualization tools, explore the da
 
 ![images/user_weekday_gender.png](images/user_weekday_gender.png)
 
-
+## Peak usage hours in August
 ![images/august_peak_hours.png](images/august_peak_hours.png)
 
-
+## Top Starting Locations
 ![images/starting_locations.png](images/starting_locations.png)
 
-
+### Top Ending Locations
 ![images/ending_locations.png](images/ending_locations.png)
+
+Bike usage is exponentially higher in the known tourist areas of Manhattan. Supplying bikes around these areas is extremely important in keeping the service accessible. 
